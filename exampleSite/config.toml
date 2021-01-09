@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
 title = "Meghna"
-theme = "meghna-hugo"
+theme = "number1"
 themesDir = "../.."
 # post pagination
 paginate = "6"
